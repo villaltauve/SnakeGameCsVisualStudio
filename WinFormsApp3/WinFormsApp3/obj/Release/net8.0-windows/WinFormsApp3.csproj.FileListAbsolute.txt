@@ -1,0 +1,16 @@
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\bin\Release\net8.0-windows\WinFormsApp3.exe
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\bin\Release\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\bin\Release\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\bin\Release\net8.0-windows\WinFormsApp3.dll
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\bin\Release\net8.0-windows\WinFormsApp3.pdb
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.dll
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.pdb
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\uve63\source\repos\WinFormsApp3\WinFormsApp3\obj\Release\net8.0-windows\ref\WinFormsApp3.dll
